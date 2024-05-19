@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web3 tester and social marketing
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ; idk
-- 😄 Pronouns: him
+- 😄 Pronouns: he
 - ⚡ Fun fact: im still learn
 
 <!---
